@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fener</title>
+     </head>
+  <body>
+    <div id="all">
+      <div id="container">
+        <div id="fener">
+          <img src="fener.bmp" alt="resim" />
+        </div>
 
+        <div id="ucgen"></div>
+        <div id="zemin"></div>
+      </div>
+      <div id="butonlar">
+        <button id="yellow">Sarı</button><br /><br />
+        <button id="red">Kırmızı</button><br /><br />
+        <button id="green">Yeşil</button><br /><br />
+        <button id="blue">Mavi</button><br /><br />
+        <button id="orange">Portakal rengi</button><br /><br />
+        <button id="brown">Kahverengi</button><br /><br />
+        <button id="kapat">Kapat</button><br /><br />
+      </div>
