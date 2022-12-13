@@ -1,4 +1,4 @@
-<script>
+
         document.getElementById("yellow").onclick = function () {
           document.getElementById("all").style.backgroundColor = "white";
           document.getElementById("zemin").style.backgroundColor = "yellow";
@@ -41,4 +41,4 @@
           document.getElementById("ucgen").style.borderRightColor = "black";
           document.getElementById("fener").style.display = "none";
         };
-      </script>
+      
